@@ -60,3 +60,13 @@ footer {
 }
 
 
+img{
+  height: 70%;
+  width:70%;
+}
+
+#ol{color: white;
+font-size: 17px;
+}
+
+#dos{background-color: blue; color:white;}
