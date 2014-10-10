@@ -5,6 +5,7 @@
 html,
 body {
   overflow-x: hidden; /* Prevent scroll on narrow devices */
+  background-image: url("../../img/fondo.jpg");
 }
 body {
   padding-top: 70px;
