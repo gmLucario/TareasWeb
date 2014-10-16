@@ -1,5 +1,5 @@
 ﻿<?php
-//inicia la sesion y puedes usarla en todos los docs. debe estar en todos
+//inicia la sesion y puedes usarla en todos los docs. debe estar en todosfdsd
 if(!isset($_SESSION)){
 	session_start();
 
