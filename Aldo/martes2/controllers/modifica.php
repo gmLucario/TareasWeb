@@ -9,7 +9,7 @@ if(!isset($_SESSION)){
 require_once './../conexiones/conexion.php'; //Linea para llamar a connect
 
 	$newpass = $_POST['pass'];		//Para la nueva contraseña
-	$pass = $_POST['current'];  	//Para validar que es su cuenta
+	$pass = $_POST['current'];  	//Para validar que es su cuentadsfsd
 
 	$consulta = "SELECT * FROM users WHERE users='".$_SESSION['user']."' AND pass='".$pass."'";  //Usamos el nombre de usuario de la seción
 
