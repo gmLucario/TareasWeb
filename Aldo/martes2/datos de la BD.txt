@@ -1,0 +1,13 @@
+datos de la base de datos usada con el ejercicio:
+
+base de datos: test
+
+tabla: users
+
+campos:
+
+user
+
+pass
+
+mail
