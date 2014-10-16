@@ -24,7 +24,7 @@ require_once './../conexiones/conexion.php'; //Linea para llamar a connect
 		header("Location: inok.php");
 	}else{
 
-		header("Location: setaccount.php"); //redirigue a esta otra pag si nosdfsf
+		header("Location: setaccount.php"); //redirigue a esta otra pag si no
 	}
 
 ?>
