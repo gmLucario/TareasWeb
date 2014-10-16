@@ -6,7 +6,7 @@ if(!isset($_SESSION)){
 	}
 	//para terminar sesion ->> session_destroy()
 
-require_once './../conexiones/conexion.php'; //Linea para llamar a connect
+require_once './../conexiones/conexion.php'; //Linea para llamar a connectdsfs
 
 	$newpass = $_POST['pass'];		//Para la nueva contraseña
 	$pass = $_POST['current'];  	//Para validar que es su cuentadsfsd
