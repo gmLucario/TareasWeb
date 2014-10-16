@@ -9,7 +9,7 @@ if(!isset($_SESSION)){
 <html>
 	<head>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<title>Conexion</title>
+	<title>Probando</title>
 	</head>
 	
 	<body>
