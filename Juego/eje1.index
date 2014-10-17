@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Ejemplo</title>
+  <link rel="stylesheet" href="css/uno.css">
+    <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/uno.js"></script>
+  </head>
+  <body>
+   <center> 
+      <div style="width:800px; height:550px; border:20px solid orange;">
+          <center>
+              <div style="width:300px; height:55px; border:20px solid pink;">
+                <h1>JUEGO UNO/DOS</h1>
+              </div>
+          </center> 
+              <center>
+                <div id="target" class="playground">
+                    <img src="img/cinco.jpg" height="100%" width="100%" alt="##">
+                           </div>
+                <div style="width:100px; height:50px; border:20px solid pink;"> 
+                    <button id='growRight'>-></button>
+                      <button id='shrinkLeft'><-</button>
+                      <button id='growVertical'>V</button>
+                      <button id='shrinkVertical'>^</button>
+                </div>
+              </center>
+      </div>
+
+    </center>
+<div id="footer">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima quibusdam incidunt facilis quis id laborum dicta quaerat omnis quam quae eos, repudiandae, molestiae labore cupiditate quasi molestias corporis repellendus nulla.</p>
+</div>
+  </body>
+</html>
